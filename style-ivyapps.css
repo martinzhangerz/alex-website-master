@@ -1,0 +1,459 @@
+.mediaViewInfo {
+	--web-view-name: ivyapps;
+	--web-view-id: ivyapps;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ivyapps;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#ivyapps {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 5689px;
+	background-color: rgba(250,250,250,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: ivyapps;
+	--web-view-id: ivyapps;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 1080px;
+	left: 960px;
+	top: 0px;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 458px;
+	left: 0px;
+	top: 1872px;
+}
+#IvyApps {
+	position: absolute;
+	left: 277px;
+	top: 416px;
+	overflow: hidden;
+	width: 234px;
+	height: 57px;
+	line-height: 80px;
+	margin-top: -16px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#students_who_ve_been_through_i {
+	position: absolute;
+	left: 277px;
+	top: 483px;
+	overflow: hidden;
+	width: 456px;
+	height: 32px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(85,93,206,1);
+}
+#Team {
+	position: absolute;
+	left: 277px;
+	top: 625px;
+	overflow: hidden;
+	width: 91px;
+	height: 27px;
+	line-height: 80px;
+	margin-top: -25px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Project_Brief {
+	position: absolute;
+	left: 416px;
+	top: 1205px;
+	overflow: hidden;
+	width: 634px;
+	height: 32px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Introduction {
+	position: absolute;
+	left: 416px;
+	top: 1480px;
+	overflow: hidden;
+	width: 634px;
+	height: 31px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Previous_Offering {
+	position: absolute;
+	left: 416px;
+	top: 2480px;
+	overflow: hidden;
+	width: 634px;
+	height: 31px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Previous_Offering_A0_Text_7 {
+	position: absolute;
+	left: 416px;
+	top: 4851px;
+	overflow: hidden;
+	width: 634px;
+	height: 31px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Our_aim_is_to_ensure_that_ever {
+	position: absolute;
+	left: 433.5px;
+	top: 2061px;
+	overflow: hidden;
+	width: 1055px;
+	height: 80px;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ALEX_THORBURN_WINSOR {
+	position: absolute;
+	left: 140px;
+	top: 60px;
+	overflow: visible;
+	width: 450px;
+	height: 29px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Resume {
+	position: absolute;
+	left: 1676px;
+	top: 64px;
+	overflow: hidden;
+	width: 105px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#About {
+	position: absolute;
+	left: 1548px;
+	top: 64px;
+	overflow: visible;
+	width: 84px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Work {
+	position: absolute;
+	left: 1418px;
+	top: 64px;
+	overflow: visible;
+	width: 76px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.ID0 {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 195px;
+	left: 277px;
+	top: 667px;
+}
+#Lorem_ipsum_dolor_sit_amet__co {
+	position: absolute;
+	left: 416px;
+	top: 1277px;
+	overflow: hidden;
+	width: 1089px;
+	height: 103px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A0_Text_14 {
+	position: absolute;
+	left: 416px;
+	top: 1551px;
+	overflow: hidden;
+	width: 1089px;
+	height: 171px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A0_Text_15 {
+	position: absolute;
+	left: 416px;
+	top: 2551px;
+	overflow: hidden;
+	width: 1089px;
+	height: 125px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A0_Text_16 {
+	position: absolute;
+	left: 416px;
+	top: 4922px;
+	overflow: hidden;
+	width: 1089px;
+	height: 125px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A0_Text_17 {
+	position: absolute;
+	left: 416px;
+	top: 5262px;
+	overflow: hidden;
+	width: 1089px;
+	height: 125px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A0_Text_18 {
+	position: absolute;
+	left: 416px;
+	top: 5057px;
+	overflow: hidden;
+	width: 1089px;
+	height: 195px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A0_Text_19 {
+	position: absolute;
+	left: 416px;
+	top: 3337px;
+	overflow: hidden;
+	width: 1089px;
+	height: 106px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Group_9 {
+	position: absolute;
+	width: 776px;
+	height: 554px;
+	left: 594px;
+	top: 2729px;
+	overflow: visible;
+}
+.MacBook_Design_Mockup {
+	position: absolute;
+	overflow: visible;
+	width: 776px;
+	height: 554px;
+	left: 0px;
+	top: 0px;
+}
+#Group_10 {
+	position: absolute;
+	width: 1919.455px;
+	height: 1106.388px;
+	left: 0px;
+	top: 3593.806px;
+	overflow: visible;
+}
+#Group_8 {
+	position: absolute;
+	width: 1919.455px;
+	height: 1106.388px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_3 {
+	transform: rotate(180deg);
+	transform-origin: left;
+	position: absolute;
+	width: 1919.455px;
+	height: 1106.388px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 1919.455px;
+	height: 1106.388px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_7 {
+	transform: rotate(180deg);
+	transform-origin: left;
+	position: absolute;
+	width: 771.759px;
+	height: 439.544px;
+	left: 574.327px;
+	top: 411.887px;
+	overflow: visible;
+}
+#Group_6 {
+	position: absolute;
+	width: 771.759px;
+	height: 439.544px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#We_are_relaunching_as_a_mentor {
+	position: absolute;
+	left: 553.5px;
+	top: 275.194px;
+	overflow: hidden;
+	width: 814px;
+	height: 34px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Mask_Group_8 {
+	position: absolute;
+	width: 882px;
+	height: 854px;
+	left: 999px;
+	top: 160px;
+	overflow: visible;
+}
+.download_copy {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 195px;
+	left: 507px;
+	top: 667px;
+}

@@ -1,0 +1,426 @@
+.mediaViewInfo {
+	--web-view-name: hltr;
+	--web-view-id: hltr;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: hltr;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#hltr {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 5689px;
+	background-color: rgba(250,250,250,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: hltr;
+	--web-view-id: hltr;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 960px;
+	width: 960px;
+	height: 1080px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 458px;
+	left: 0px;
+	top: 1872px;
+}
+#How_long_to_read_this {
+	position: absolute;
+	left: 277px;
+	top: 416px;
+	overflow: hidden;
+	width: 506px;
+	height: 57px;
+	line-height: 80px;
+	margin-top: -16px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#how_long_to_read_that_book_ {
+	position: absolute;
+	left: 277px;
+	top: 483px;
+	overflow: hidden;
+	width: 456px;
+	height: 32px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(45,89,133,1);
+}
+#Team {
+	position: absolute;
+	left: 277px;
+	top: 625px;
+	overflow: hidden;
+	width: 91px;
+	height: 27px;
+	line-height: 80px;
+	margin-top: -25px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Project_Brief {
+	position: absolute;
+	left: 416px;
+	top: 1205px;
+	overflow: hidden;
+	width: 634px;
+	height: 32px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Introduction {
+	position: absolute;
+	left: 416px;
+	top: 1480px;
+	overflow: hidden;
+	width: 634px;
+	height: 31px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#The_Solution {
+	position: absolute;
+	left: 416px;
+	top: 2480px;
+	overflow: hidden;
+	width: 634px;
+	height: 31px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Previous_Offering {
+	position: absolute;
+	left: 416px;
+	top: 4851px;
+	overflow: hidden;
+	width: 634px;
+	height: 31px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#How_Long_to_Read_has_over_12_m {
+	position: absolute;
+	left: 484.5px;
+	top: 2061px;
+	overflow: hidden;
+	width: 953px;
+	height: 80px;
+	line-height: 40px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#ALEX_THORBURN_WINSOR {
+	position: absolute;
+	left: 140px;
+	top: 60px;
+	overflow: visible;
+	width: 450px;
+	height: 29px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Resume {
+	position: absolute;
+	left: 1676px;
+	top: 64px;
+	overflow: hidden;
+	width: 105px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#About {
+	position: absolute;
+	left: 1548px;
+	top: 64px;
+	overflow: visible;
+	width: 84px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Work {
+	position: absolute;
+	left: 1418px;
+	top: 64px;
+	overflow: visible;
+	width: 76px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.ID0 {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 195px;
+	left: 277px;
+	top: 667px;
+}
+.ID15068361_893601110771239_366 {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 195px;
+	left: 507px;
+	top: 667px;
+}
+#Lorem_ipsum_dolor_sit_amet__co {
+	position: absolute;
+	left: 416px;
+	top: 1277px;
+	overflow: hidden;
+	width: 1089px;
+	height: 103px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A3_Text_14 {
+	position: absolute;
+	left: 416px;
+	top: 1551px;
+	overflow: hidden;
+	width: 1089px;
+	height: 171px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A3_Text_15 {
+	position: absolute;
+	left: 416px;
+	top: 2551px;
+	overflow: hidden;
+	width: 1089px;
+	height: 125px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A3_Text_16 {
+	position: absolute;
+	left: 416px;
+	top: 4922px;
+	overflow: hidden;
+	width: 1089px;
+	height: 125px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A3_Text_17 {
+	position: absolute;
+	left: 416px;
+	top: 3337px;
+	overflow: hidden;
+	width: 1089px;
+	height: 106px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Group_9 {
+	position: absolute;
+	width: 776px;
+	height: 554px;
+	left: 594px;
+	top: 2729px;
+	overflow: visible;
+}
+.HLTR {
+	position: absolute;
+	overflow: visible;
+	width: 776px;
+	height: 554px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2 {
+	transform: rotate(180deg);
+	transform-origin: left;
+	position: absolute;
+	width: 1919.455px;
+	height: 1106.388px;
+	left: 0px;
+	top: 3593.806px;
+	overflow: visible;
+}
+#We_are_reimagining_the_experie {
+	position: absolute;
+	left: 553.5px;
+	top: 3756px;
+	overflow: hidden;
+	width: 814px;
+	height: 34px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: center;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Mask_Group_9 {
+	position: absolute;
+	width: 884px;
+	height: 841px;
+	left: 998px;
+	top: 152px;
+	overflow: visible;
+}
+.Web_1920___2 {
+	position: absolute;
+	overflow: visible;
+	width: 865px;
+	height: 487px;
+	left: 544px;
+	top: 3892px;
+}
+#Lorem_ipsum_dolor_sit_amet__co_A3_Text_19 {
+	position: absolute;
+	left: 416px;
+	top: 5262px;
+	overflow: hidden;
+	width: 1089px;
+	height: 125px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co_A3_Text_20 {
+	position: absolute;
+	left: 416px;
+	top: 5057px;
+	overflow: hidden;
+	width: 1089px;
+	height: 195px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}

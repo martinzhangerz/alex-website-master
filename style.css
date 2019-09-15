@@ -1,0 +1,353 @@
+.mediaViewInfo {
+	--web-view-name: landingpage;
+	--web-view-id: landingpage;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: landingpage;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#landingpage {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 3742px;
+	background-color: rgba(250,250,250,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: landingpage;
+	--web-view-id: landingpage;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 1080px;
+	left: 960px;
+	top: 0px;
+}
+#Alex_is_an_entrepreneur__ {
+	position: absolute;
+	left: 277px;
+	top: 416px;
+	overflow: hidden;
+	width: 554px;
+	height: 68px;
+	line-height: 80px;
+	margin-top: -16px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#Case_Studies {
+	position: absolute;
+	left: 1010px;
+	top: 1195px;
+	overflow: hidden;
+	width: 634px;
+	height: 58px;
+	line-height: 80px;
+	margin-top: -16px;
+	text-align: right;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#Projects {
+	position: absolute;
+	left: 1011px;
+	top: 1891px;
+	overflow: hidden;
+	width: 634px;
+	height: 58px;
+	line-height: 80px;
+	margin-top: -16px;
+	text-align: right;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#ALEX_THORBURN_WINSOR {
+	position: absolute;
+	left: 140px;
+	top: 60px;
+	overflow: visible;
+	width: 450px;
+	height: 29px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Resume {
+	position: absolute;
+	left: 1676px;
+	top: 64px;
+	overflow: hidden;
+	width: 105px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#About {
+	position: absolute;
+	left: 1548px;
+	top: 64px;
+	overflow: visible;
+	width: 84px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Work {
+	position: absolute;
+	left: 1418px;
+	top: 64px;
+	overflow: visible;
+	width: 76px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.ID0 {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 305px;
+	left: 277px;
+	top: 554px;
+}
+#Group_15 {
+	position: absolute;
+	width: 632px;
+	height: 453px;
+	left: 278px;
+	top: 1323px;
+	overflow: visible;
+}
+#ID5bdb30b42400004c02991f25 {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.161));
+}
+.ID5bdb30b42400004c02991f25 {
+	position: absolute;
+	overflow: visible;
+	width: 707px;
+	height: 528px;
+	left: 0px;
+	top: 0px;
+}
+#Group_17 {
+	position: absolute;
+	width: 632px;
+	height: 453px;
+	left: 1010px;
+	top: 1323px;
+	overflow: visible;
+}
+#ID5bdb30b42400004c02991f25_A6_Rectangle_5 {
+	filter: drop-shadow(0px 0px 50px rgba(0, 0, 0, 0.161));
+}
+.ID5bdb30b42400004c02991f25_A6_Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 782px;
+	height: 603px;
+	left: 0px;
+	top: 0px;
+}
+.Seeking_Alpha {
+	position: absolute;
+	overflow: visible;
+	width: 468px;
+	height: 335px;
+	left: 82px;
+	top: 59px;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 11px;
+	height: 1px;
+	left: 603px;
+	top: 2195px;
+}
+#Group_11 {
+	position: absolute;
+	width: 632px;
+	height: 612px;
+	left: 278px;
+	top: 2019px;
+	overflow: visible;
+}
+#ID5bdb30b42400004c02991f25_A6_Rectangle_9 {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.161));
+}
+.ID5bdb30b42400004c02991f25_A6_Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 707px;
+	height: 687px;
+	left: 0px;
+	top: 0px;
+}
+#Mask_Group_1 {
+	position: absolute;
+	width: 632px;
+	height: 612px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_14 {
+	position: absolute;
+	width: 632px;
+	height: 612px;
+	left: 278px;
+	top: 2731px;
+	overflow: visible;
+}
+#ID5bdb30b42400004c02991f25_A6_Rectangle_13 {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.161));
+}
+.ID5bdb30b42400004c02991f25_A6_Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 707px;
+	height: 687px;
+	left: 0px;
+	top: 0px;
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 632px;
+	height: 612px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_13 {
+	position: absolute;
+	width: 632px;
+	height: 612px;
+	left: 1010px;
+	top: 2731px;
+	overflow: visible;
+}
+#ID5bdb30b42400004c02991f25_A6_Rectangle_17 {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.161));
+}
+.ID5bdb30b42400004c02991f25_A6_Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 707px;
+	height: 687px;
+	left: 0px;
+	top: 0px;
+}
+#Mask_Group_11 {
+	position: absolute;
+	width: 632px;
+	height: 611.875px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_12 {
+	position: absolute;
+	width: 632px;
+	height: 612px;
+	left: 1010px;
+	top: 2019px;
+	overflow: visible;
+}
+#ID5bdb30b42400004c02991f25_A6_Rectangle_20 {
+	filter: drop-shadow(0px 0px 25px rgba(0, 0, 0, 0.161));
+}
+.ID5bdb30b42400004c02991f25_A6_Rectangle_20 {
+	position: absolute;
+	overflow: visible;
+	width: 707px;
+	height: 687px;
+	left: 0px;
+	top: 0px;
+}
+#Mask_Group_12 {
+	position: absolute;
+	width: 632px;
+	height: 611.875px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#He_loves_the_grind_ {
+	position: absolute;
+	left: 1092px;
+	top: 514px;
+	overflow: hidden;
+	width: 554px;
+	height: 68px;
+	line-height: 80px;
+	margin-top: -16px;
+	text-align: right;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(255,255,255,1);
+}
+#Group_16 {
+	position: absolute;
+	width: 632px;
+	height: 453px;
+	left: 278px;
+	top: 1323px;
+	overflow: visible;
+}
+.ID5bdb30b42400004c02991f25_A6_Rectangle_23 {
+	position: absolute;
+	overflow: visible;
+	width: 632px;
+	height: 453px;
+	left: 0px;
+	top: 0px;
+}

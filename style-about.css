@@ -1,0 +1,239 @@
+.mediaViewInfo {
+	--web-view-name: about;
+	--web-view-id: about;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: about;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#about {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1896px;
+	background-color: rgba(250,250,250,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: about;
+	--web-view-id: about;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 1080px;
+	left: 960px;
+	top: 0px;
+}
+#Hi__I_m_Alex__I_m_an_entrepren {
+	position: absolute;
+	left: 277px;
+	top: 429px;
+	overflow: hidden;
+	width: 435px;
+	height: 300px;
+	line-height: 70px;
+	margin-top: -11px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	color: rgba(0,0,0,1);
+}
+#Friendly__collaborative__and_a {
+	position: absolute;
+	left: 416px;
+	top: 1205px;
+	overflow: hidden;
+	width: 634px;
+	height: 32px;
+	line-height: 45px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#Newest_product__Ivyapps {
+	position: absolute;
+	left: 416px;
+	top: 1430px;
+	overflow: hidden;
+	width: 664px;
+	height: 31px;
+	line-height: 40px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Current_hobby__Firing {
+	position: absolute;
+	left: 416px;
+	top: 1481px;
+	overflow: hidden;
+	width: 664px;
+	height: 31px;
+	line-height: 40px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Favourite_artist__Sketpa {
+	position: absolute;
+	left: 416px;
+	top: 1532px;
+	overflow: hidden;
+	width: 664px;
+	height: 31px;
+	line-height: 40px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Email {
+	position: absolute;
+	left: 416px;
+	top: 1603px;
+	overflow: hidden;
+	width: 150px;
+	height: 31px;
+	line-height: 40px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#LinkedIn {
+	position: absolute;
+	left: 561px;
+	top: 1603px;
+	overflow: visible;
+	width: 150px;
+	height: 31px;
+	line-height: 40px;
+	margin-top: -8px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#ALEX_THORBURN_WINSOR {
+	position: absolute;
+	left: 140px;
+	top: 60px;
+	overflow: visible;
+	width: 450px;
+	height: 29px;
+	text-align: left;
+	font-family: Europa-Bold;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#Resume {
+	position: absolute;
+	left: 1676px;
+	top: 64px;
+	overflow: hidden;
+	width: 105px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#About {
+	position: absolute;
+	left: 1548px;
+	top: 64px;
+	overflow: visible;
+	width: 84px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Work {
+	position: absolute;
+	left: 1418px;
+	top: 64px;
+	overflow: visible;
+	width: 76px;
+	height: 22px;
+	text-align: right;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_ipsum_dolor_sit_amet__co {
+	position: absolute;
+	left: 416px;
+	top: 1277px;
+	overflow: hidden;
+	width: 1089px;
+	height: 103px;
+	line-height: 36px;
+	margin-top: -6px;
+	text-align: left;
+	font-family: Europa-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+.ID0 {
+	position: absolute;
+	overflow: visible;
+	width: 404px;
+	height: 439px;
+	left: 1238px;
+	top: 353px;
+}
